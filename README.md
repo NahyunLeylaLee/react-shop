@@ -1,3 +1,3 @@
 # react-shop
 
-Hello, this is Nahyun Lee's shopping mall made by React.
+Hello, this is Nahyun Lee's React shopping mall!
