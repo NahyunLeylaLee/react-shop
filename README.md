@@ -2,4 +2,4 @@
 
 Hello, this is Nahyun Lee's React shopping mall!
 
-HTML, CSS, JavaScript, React Bootstrap, React
+Skills; HTML, CSS, JavaScript, React Bootstrap, React
